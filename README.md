@@ -12,4 +12,5 @@ To analyze the [apache_access.log file](https://github.com/duncanchua91/Analyze-
 * Use index function
 * Use substr function
 
-## Project Results
+## Project Result
+The [output log file](https://github.com/duncanchua91/Analyze-Apache-Log-File/blob/236a46f5de465de27b938db3d20cb509946c6207/Example_Logs/apache_access_log_output.log) is located in the Example_Logs folder.
