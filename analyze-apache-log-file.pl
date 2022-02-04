@@ -1,5 +1,5 @@
 #!/usr/bin/perl
-# miniproject32.pl by Duncan Chua
+# analyze-apache-log-file.pl by Duncan Chua
 
 use 5.18.0; #use is a Perl keyword e.g. library or configuration;
 use strict; #disables certain Perl expressions that could behave unexpectedly or are difficult to debug
